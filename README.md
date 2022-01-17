@@ -1,4 +1,11 @@
-### Hi there 👋
+### FE 개발자 민순기입니다 👋
+
+[저에 대해서 궁금하시다면 이걸 봐주세요](https://wholesale-pike-301.notion.site/Front-End-Developer-4016be9f19fe448d9852db3b958248f3)
+<br/>
+<br/>
+
+### ⚽ Technical Skills
+<img src="https://img.shields.io/badge/HTML-white?logo=html5"/> <img src= "https://img.shields.io/badge/CSS-blue?logo=css3"/> <img src= "https://img.shields.io/badge/Scss-pink?logo=sass"/> <img src= "https://img.shields.io/badge/Next-blue?logo=react"/> <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=React" /> <img src= "https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript"/> <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript" /> <img src="https://img.shields.io/badge/Redux-purple?logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/-styledcomponents-brown?logo=styledcomponents" />
 
 <!--
 **soonki-98/soonki-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
