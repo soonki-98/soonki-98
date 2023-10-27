@@ -1,6 +1,6 @@
 ### FE 개발자 민순기입니다 👋
 
-[저에 대해서 궁금하시다면 이걸 봐주세요]([https://wholesale-pike-301.notion.site/Front-End-Developer-4016be9f19fe448d9852db3b958248f3](https://www.notion.so/8eb4e1b1947749d5a31b8207990f9ee6?pvs=4))
+[저에 대해서 궁금하시다면 이걸 봐주세요!](https://wholesale-pike-301.notion.site/8eb4e1b1947749d5a31b8207990f9ee6?pvs=4)
 <br/>
 <br/>
 
