@@ -4,6 +4,14 @@
 <br/>
 <br/>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/soonki-98"
+  width="600"
+  height="300"
+/>
+</a>
+
 ### ⚽ Technical Skills
 <img src="https://img.shields.io/badge/HTML-white?logo=html5"/> <img src= "https://img.shields.io/badge/CSS-blue?logo=css3"/> <img src= "https://img.shields.io/badge/Scss-pink?logo=sass"/> <img src= "https://img.shields.io/badge/Next-blue?logo=react"/> <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=React" /> <img src= "https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript"/> <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript" /> <img src="https://img.shields.io/badge/Redux-purple?logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/-styledcomponents-brown?logo=styledcomponents" />
 
